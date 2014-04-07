@@ -33,7 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
-        System.out.println("Test line added for TeamCity trigger");
+        System.out.println("Test line added for TeamCity trigger - again");
         assertTrue( true );
     }
 }
